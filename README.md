@@ -140,6 +140,7 @@ It should run spotify-this-song for "I Want it That Way," as follows the text in
 Feel free to change the text in that document to test out the feature for other commands.
 
 BONUS
+
 In addition to logging the data to your terminal/bash window, output the data to a .txt file called log.txt.
 Make sure you append each command you run to the log.txt file. 
 Do not overwrite your file each time you run a command.
