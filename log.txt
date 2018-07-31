@@ -1,0 +1,451 @@
+Tue Jul 31 2018 14:03:48 GMT-0400 (Eastern Daylight Time) - C:\Program Files\nodejs\node.exe,C:\liri-node-app\liri.js,do-what-it-says
+
+Album Type: "compilation"
+
+Artist Name: "Backstreet Boys"
+
+Album Name: "The Hits--Chapter One"
+
+Preview URL: "https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=00a57fc6da474ea7b6acda3f6aa52cb5"
+------------------------------------------------------------------------------------------------------------------------------------
+
+Tue Jul 31 2018 14:05:40 GMT-0400 (Eastern Daylight Time) - C:\Program Files\nodejs\node.exe,C:\liri-node-app\liri.js,my-tweets
+
+Tweet#1:
+RT @SpockResists: 🇺🇸SPECIAL ELECTION #Ohio #Ohiogov #Ohiopol #OH12 #TakeItBack 
+
+🇺🇸 7th August 
+
+This is yet another deep red district R+7…
+
+Tweet#2:
+RT @ABC: 2-year-old Gracie hands out breakfast burritos to California firefighters battling the deadly Carr Fire. Gracie has two uncles and…
+
+Tweet#3:
+Today is my buddy boy Truman Osito's 3rd birthday. My heart is so full with this little guy in my life. https://t.co/YvcoaboCPF
+
+Tweet#4:
+Oh chaley https://t.co/GZr1Ae59qb
+
+Tweet#5:
+uhhh having family issues doesnt make it ok for you to be a racist💀 https://t.co/Gf2YSiCicS
+
+Tweet#6:
+RT @____TomCruise: Girls who rub they man feet &gt;&gt;&gt;
+
+Tweet#7:
+RT @FOX8NOLA: ATMS, poker machines robbed at daiquiri shop https://t.co/b764W9Uyae https://t.co/G7GJXepNp9
+
+Tweet#8:
+RT @junotheleafs: Love to hear this from Marty. Toronto will miss you @mattymarts17 https://t.co/9VOJwCi7Zy
+
+Tweet#9:
+RT @francchinii: this is like 2/3 of the original concept bc im lazy
+#adashi #shadam https://t.co/ftbAuxJKZG
+
+Tweet#10:
+@Mehar_Khanna Hi! That's not the experience we want you to have :( Please DM us your phone number and we will get i… https://t.co/rq3FHkIix8
+
+Tweet#11:
+RT @spectatorindex: MEDIA: Driver in Lamborghini loses control while driving at over 350 km/h.
+
+(Via 1320 Video) https://t.co/TKSZs83NXy
+
+Tweet#12:
+RT @JChengWSJ: With a little help from our friends at @CNS_Updates, here's our piece on progress at N. Korea's missile facility in Pyongyan…
+
+Tweet#13:
+@2351onthelist @GMG1106 @TheCEOinspace @JohnTho29498413 @YesWeCan_scot @mit1953 @GeorginaSparrow @nmckay958… https://t.co/7FwZB4iMQG
+
+Tweet#14:
+RT @scarIetIoki: when does krysten ritter get her emmy for jessica jones
+
+Tweet#15:
+RT @VenomMovie: The world has enough superheroes. Watch the new #Venom trailer now. 10.5.18 https://t.co/dnh8nqwkfJ
+
+Tweet#16:
+@DewsSox79 Lol dont worry bud chicago sports stations will talk about your sox soon, maybe in 3-5 years 👍
+
+Tweet#17:
+RT @VerySeriousP: Double the David 👯‍♂️in this clip from our “Improvised Panto!” #edfringe trailer! #FartNugget
+
+Full video 📽 https://t.co/…
+
+Tweet#18:
+RT @hondadeal4vets: Need a girl like this https://t.co/Irq7ciyE5S
+
+Tweet#19:
+RT @XXL: Tsu Surf, a popular battle rapper, is still recovering in the hospital after being shot five times last week in his home town of N…
+------------------------------------------------------------------------------------------------------------------------------------
+
+Tue Jul 31 2018 14:06:01 GMT-0400 (Eastern Daylight Time) - C:\Program Files\nodejs\node.exe,C:\liri-node-app\liri.js,movie-this,matrix
+
+Title of the movie: Matrix
+
+Year the movie came out: 1993–
+
+Country movie was produced: Canada
+
+Language of the movie: English
+
+Plot of the movie: Steven Matrix is one of the underworld's foremost hitmen until his luck runs out, and someone puts a contract out on him. Shot in the forehead by a .22 pistol, Matrix "dies" and finds ...
+
+Actors in the movie: Nick Mancuso, Phillip Jarrett, Carrie-Anne Moss, John Vernon
+
+IMDB Rating : 8.4
+
+Rotten Tomatoes Rating: 
+------------------------------------------------------------------------------------------------------------------------------------
+
+Tue Jul 31 2018 14:09:10 GMT-0400 (Eastern Daylight Time) - C:\Program Files\nodejs\node.exe,C:\liri-node-app\liri.js,movie-this
+
+Title of the movie: Mr. Nobody
+
+Year the movie came out: 2009
+
+Country movie was produced: Belgium, Germany, Canada, France, USA, UK
+
+Language of the movie: English, Mohawk
+
+Plot of the movie: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+
+Actors in the movie: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+
+IMDB Rating : 7.9
+
+Rotten Tomatoes Rating: 66%
+------------------------------------------------------------------------------------------------------------------------------------
+
+Tue Jul 31 2018 14:09:28 GMT-0400 (Eastern Daylight Time) - C:\Program Files\nodejs\node.exe,C:\liri-node-app\liri.js,my-tweets
+
+Tweet#1:
+RT @ZeeNews: 11 women found missing from another shelter home run by Brajesh Thakur's NGO - WATCH https://t.co/HVbOXBLFze
+
+Tweet#2:
+@goustocooking you are the best thing around. I’m loving your food and it’s so easy to do. Love the choices and eas… https://t.co/928H8ls1Th
+
+Tweet#3:
+RT @Barbara75939296: @JackPosobiec They r too busy claiming the #walkaway movement is a Russian troll thing. No time to investigate this😂😂
+
+Tweet#4:
+Yes it has https://t.co/j0tYw3UWj6
+
+Tweet#5:
+@wvjoe911 @JoyOR235 Multiple yachts. Her family runs the Amway pyramid scam.
+
+Tweet#6:
+RT @cactusculera: Anybody with taste knows it truly depends on the meal. You can’t pit these beauties against each other. They each serve a…
+
+Tweet#7:
+RT @hongslice: i put ryuji on this one. ty isabel https://t.co/tY9oCLJ4VU
+
+Tweet#8:
+RT @pinkie_winkie_: Happy Birthday 💕💘💗💓💞💞💝
+#HAPPYTIFFANYYOUNGDAY 
+#다시만난티파니영 https://t.co/bSS8aWLea3
+
+Tweet#9:
+RT @jamesirving2: RT if you agree that the #MAGA movement is the most exciting event in our lifetime!!! https://t.co/44sPMSJbBl
+
+Tweet#10:
+Yep people be leaving me again...need to re-check who I follow again...
+
+Tweet#11:
+Navneet is a good player, good potential. @TheHockeyIndia
+
+Tweet#12:
+RT @wizkidayo: Get up and do something with ur life today 🌹🦅🌍
+
+Tweet#13:
+RT @marie_brownsuga: The best parts of my life really don’t make it to social media
+
+Tweet#14:
+@RenanArias_ what?? rss
+
+Tweet#15:
+@bomani_jones please tell me yall are gonna address Tristan Thompson serving Draymond that 2 Piece Spicy on tomorrow's show.
+
+Tweet#16:
+@Rustytigerpoo1 Rest easy now that she's at peace
+
+Tweet#17:
+RT from ComputerSociety: "What Will We Wear After Smartphones?
+Although smartphones remain a wearable research tool… https://t.co/COfwzULmXX
+
+Tweet#18:
+how Kimi felt when he pressed the button and got no drink 😐
+
+😂 https://t.co/zEL8Joinbo
+
+Tweet#19:
+RT @MikeeKhoury: I don’t deserve this😂😭 https://t.co/F35RdXrmJT
+
+Tweet#20:
+I was born in the UK under the National Health.  I was born at home, so the NHS sent health care workers and visiti… https://t.co/DEbin4HKkj
+------------------------------------------------------------------------------------------------------------------------------------
+
+Tue Jul 31 2018 14:09:35 GMT-0400 (Eastern Daylight Time) - C:\Program Files\nodejs\node.exe,C:\liri-node-app\liri.js,my-tweets,Amitabh
+
+Tweet#1:
+Watching Abhimaan's final scene where Jaya Bhaduri is reluctant to sing and Amitabh bachpan requests her to sing. O… https://t.co/nAX3VwdVnV
+
+Tweet#2:
+RT @ruhee_w: yo amitabh bachan and miley cyrus are gonna be attending the same wedding can you imagine https://t.co/fU46tAHvWe
+
+Tweet#3:
+RT @KiranKS: Amitabh Bachchan and Imran Khan enjoying Nusrat Fateh Ali Khan's concert. https://t.co/LAM27yCJQa
+
+Tweet#4:
+RT @bainjal: Senior Bjp leader from UP "Modijee is now reading Amar Chitra Katha should ask his good friend Amitabh what havoc Singh can cr…
+
+Tweet#5:
+RT @ruhee_w: yo amitabh bachan and miley cyrus are gonna be attending the same wedding can you imagine https://t.co/fU46tAHvWe
+
+Tweet#6:
+I added a video to a @YouTube playlist https://t.co/JGJQPqXWfm Chiranjeevi Open Challenge To Pawankalyan, amitabh bachchan | TS
+
+Tweet#7:
+I liked a @YouTube video https://t.co/fZyCcmG1PP Amitabh Bachchan &amp; Anil Kapoor @ Aadesh Shrivastava's Funeral P2
+
+Tweet#8:
+RT @ruhee_w: yo amitabh bachan and miley cyrus are gonna be attending the same wedding can you imagine https://t.co/fU46tAHvWe
+
+Tweet#9:
+RT @ruhee_w: yo amitabh bachan and miley cyrus are gonna be attending the same wedding can you imagine https://t.co/fU46tAHvWe
+
+Tweet#10:
+RT @baraju_SuperHit: Mega Star #Chiranjeevi Gaaru accepted the Green Challenge Thrown by NTV Narendra Chowdary Gaaru and Planted 3 Plants a…
+
+Tweet#11:
+RT @ruhee_w: yo amitabh bachan and miley cyrus are gonna be attending the same wedding can you imagine https://t.co/fU46tAHvWe
+
+Tweet#12:
+RT @advaitology: Mega Star Chiranjeevi Gaaru accepted the Green Challenge Thrown by NTV Narendra Chowdary Gaaru and Planted 3 saplings at H…
+
+Tweet#13:
+@one_by_two What a cheap mentality you have. Bollywood is not India. Who made these small screen actors into Big Ci… https://t.co/Xqm2mB4wdS
+
+Tweet#14:
+RT @etimes: .@SrBachchan gives himself a pat on the back for feeding #Brahmastra unit with vada pav and samosa in Sofia
+
+https://t.co/9c1JL…
+
+Tweet#15:
+RT @ruhee_w: yo amitabh bachan and miley cyrus are gonna be attending the same wedding can you imagine https://t.co/fU46tAHvWe
+
+Tweet#16:
+RT @ruhee_w: yo amitabh bachan and miley cyrus are gonna be attending the same wedding can you imagine https://t.co/fU46tAHvWe
+
+Tweet#17:
+RT @bainjal: Senior Bjp leader from UP "Modijee is now reading Amar Chitra Katha should ask his good friend Amitabh what havoc Singh can cr…
+
+Tweet#18:
+RT @SecretaryEr: I chaired a briefing session by Shri Amitabh Kant, CEO of NITI Aayog, on the forthcoming "MOVE - Global Mobility Summit" t…
+
+Tweet#19:
+RT @baraju_SuperHit: Mega Star #Chiranjeevi accepted the Green Challenge Thrown by NTV Narendra Chowdary and Planted 3 Plants at His Home G…
+
+Tweet#20:
+RT @bainjal: Senior Bjp leader from UP "Modijee is now reading Amar Chitra Katha should ask his good friend Amitabh what havoc Singh can cr…
+------------------------------------------------------------------------------------------------------------------------------------
+
+Tue Jul 31 2018 14:09:48 GMT-0400 (Eastern Daylight Time) - C:\Program Files\nodejs\node.exe,C:\liri-node-app\liri.js,spotify-this-song,I,want,it,that,way
+
+Album Type: "compilation"
+
+Artist Name: "Backstreet Boys"
+
+Album Name: "The Hits--Chapter One"
+
+Preview URL: "https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=00a57fc6da474ea7b6acda3f6aa52cb5"
+------------------------------------------------------------------------------------------------------------------------------------
+
+Tue Jul 31 2018 14:10:05 GMT-0400 (Eastern Daylight Time) - C:\Program Files\nodejs\node.exe,C:\liri-node-app\liri.js,do-what-it-says
+
+Album Type: "compilation"
+
+Artist Name: "Backstreet Boys"
+
+Album Name: "The Hits--Chapter One"
+
+Preview URL: "https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=00a57fc6da474ea7b6acda3f6aa52cb5"
+------------------------------------------------------------------------------------------------------------------------------------
+
+Tue Jul 31 2018 14:12:33 GMT-0400 (Eastern Daylight Time) - C:\Program Files\nodejs\node.exe,C:\liri-node-app\liri.js,do-what-it-says
+
+Title of the movie: Sholay
+
+Year the movie came out: 1975
+
+Country movie was produced: India
+
+Language of the movie: Hindi
+
+Plot of the movie: After his family is murdered by a notorious and ruthless bandit, a former police officer enlists the services of two outlaws to capture the bandit.
+
+Actors in the movie: Dharmendra, Sanjeev Kumar, Hema Malini, Amitabh Bachchan
+
+IMDB Rating : 8.2
+
+Rotten Tomatoes Rating: 83%
+------------------------------------------------------------------------------------------------------------------------------------
+
+Tue Jul 31 2018 14:13:12 GMT-0400 (Eastern Daylight Time) - C:\Program Files\nodejs\node.exe,C:\liri-node-app\liri.js,do-what-it-says
+
+Album Type: "compilation"
+
+Artist Name: "Backstreet Boys"
+
+Album Name: "The Hits--Chapter One"
+
+Preview URL: "https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=00a57fc6da474ea7b6acda3f6aa52cb5"
+------------------------------------------------------------------------------------------------------------------------------------
+
+Tue Jul 31 2018 14:13:36 GMT-0400 (Eastern Daylight Time) - C:\Program Files\nodejs\node.exe,C:\liri-node-app\liri.js,my-tweets,Matt,Gallaway
+
+Tweet#1:
+RT @ShaiLinne: Refugee | ,refyo͝oˈjē | noun
+a person who has been forced to leave their country in order to escape war, persecution, or dis…
+------------------------------------------------------------------------------------------------------------------------------------
+
+Tue Jul 31 2018 14:13:45 GMT-0400 (Eastern Daylight Time) - C:\Program Files\nodejs\node.exe,C:\liri-node-app\liri.js,my-tweets,CBC
+
+Tweet#1:
+RT @CBCPEI: P.E.I. EpiPen supply 'drying up' https://t.co/MXCI1vsn4D #pei https://t.co/9QUBxo5gP3
+
+Tweet#2:
+'That is tinpot dictator stuff': Calgary Mayor Nenshi blasts Ontario Premier Ford | CBC News https://t.co/nYCLnF4Ag0
+
+Tweet#3:
+RT @MuslimIQ: Got em!
+•The racist in the video blocking a POC from leaving a store has been found
+•Philip McLaughlin (39) is charged w/assa…
+
+Tweet#4:
+RT @CBCCalgary: Frustrated Calgary council could end Olympic bid on Sept. 10 https://t.co/XDcn0TMoDJ https://t.co/8oDzyEIyvJ
+
+Tweet#5:
+RT @CBCArts: An artist's guide to falling in love with sudbury: blueberries, "yard sailing" and maker markets https://t.co/1xMwq1rgBo https…
+
+Tweet#6:
+RT @wilfundal: More on how Kazuko Komatsu saved @pwbrewing in Prince George, B.C. and her legacy https://t.co/NhOwMjsv7t | Story by @akurja…
+
+Tweet#7:
+Emotions high as Dundee man charged with murder appears in court: https://t.co/Gxff8fO3ia https://t.co/XO4lBGWLrP
+
+Tweet#8:
+RT @peterdawe: @LaurenPelley Really ironic that @CBCNews reporter is complaining about government propaganda; given the CBC has long been m…
+
+Tweet#9:
+New Saint John pottery café gives people with disabilities work experience: https://t.co/lnckm2hFBo https://t.co/V7w4IKwYXu
+
+Tweet#10:
+RT @MuslimIQ: Got em!
+•The racist in the video blocking a POC from leaving a store has been found
+•Philip McLaughlin (39) is charged w/assa…
+
+Tweet#11:
+RT @wilfundal: More on how Kazuko Komatsu saved @pwbrewing in Prince George, B.C. and her legacy https://t.co/NhOwMjsv7t | Story by @akurja…
+
+Tweet#12:
+@BillBlair 
+The fifth estate CBC NEWS Canada denied to aired from my Story because Vatican Church destroyed the rules of human rights.
+
+Tweet#13:
+RT @MuslimIQ: Got em!
+•The racist in the video blocking a POC from leaving a store has been found
+•Philip McLaughlin (39) is charged w/assa…
+
+Tweet#14:
+Trump's chinese con job.. https://t.co/iFjuvlfsXH
+
+Tweet#15:
+RT @MuslimIQ: Got em!
+•The racist in the video blocking a POC from leaving a store has been found
+•Philip McLaughlin (39) is charged w/assa…
+
+Tweet#16:
+More on how Kazuko Komatsu saved @pwbrewing in Prince George, B.C. and her legacy https://t.co/NhOwMjsv7t | Story b… https://t.co/9qPs1WLZxB
+
+Tweet#17:
+Sad news from Prince George today. https://t.co/drUszBR4Ay
+
+Tweet#18:
+RT @CBCOntarioToday: Monday podcast: Our special gardening show featuring @RBGCanada and how they cracked the Creelman Lily  horticulture c…
+
+Tweet#19:
+RT @CBCAlerts: Man charged after race-related confrontation at grocery store earlier this month in London, Ont. https://t.co/Tc6h1lsJDp
+
+Tweet#20:
+RT @MuslimIQ: Got em!
+•The racist in the video blocking a POC from leaving a store has been found
+•Philip McLaughlin (39) is charged w/assa…
+------------------------------------------------------------------------------------------------------------------------------------
+
+Tue Jul 31 2018 14:14:35 GMT-0400 (Eastern Daylight Time) - C:\Program Files\nodejs\node.exe,C:\liri-node-app\liri.js,spotify-this-song,My,Heart,Will,Go,On
+
+Album Type: "album"
+
+Artist Name: "Céline Dion"
+
+Album Name: "Let's Talk About Love"
+
+Preview URL: "https://p.scdn.co/mp3-preview/5fcdcfe7ef20abd006bba666b4a7dff01dd5ec21?cid=00a57fc6da474ea7b6acda3f6aa52cb5"
+------------------------------------------------------------------------------------------------------------------------------------
+
+Tue Jul 31 2018 14:15:16 GMT-0400 (Eastern Daylight Time) - C:\Program Files\nodejs\node.exe,C:\liri-node-app\liri.js,movie-this,Tag
+
+Title of the movie: Tag
+
+Year the movie came out: 2018
+
+Country movie was produced: USA
+
+Language of the movie: English
+
+Plot of the movie: A small group of former classmates organize an elaborate, annual game of tag that requires some to travel all over the country.
+
+Actors in the movie: Ed Helms, Lil Rel Howery, Jon Hamm, Annabelle Wallis
+
+IMDB Rating : 6.9
+
+Rotten Tomatoes Rating: 55%
+------------------------------------------------------------------------------------------------------------------------------------
+
+Tue Jul 31 2018 14:15:56 GMT-0400 (Eastern Daylight Time) - C:\Program Files\nodejs\node.exe,C:\liri-node-app\liri.js,MOVIE-this,Tag
+
+Title of the movie: Tag
+
+Year the movie came out: 2018
+
+Country movie was produced: USA
+
+Language of the movie: English
+
+Plot of the movie: A small group of former classmates organize an elaborate, annual game of tag that requires some to travel all over the country.
+
+Actors in the movie: Ed Helms, Lil Rel Howery, Jon Hamm, Annabelle Wallis
+
+IMDB Rating : 6.9
+
+Rotten Tomatoes Rating: 55%
+------------------------------------------------------------------------------------------------------------------------------------
+
+Tue Jul 31 2018 14:16:15 GMT-0400 (Eastern Daylight Time) - C:\Program Files\nodejs\node.exe,C:\liri-node-app\liri.js,my-Tweets,Matt,Gallaway
+
+Tweet#1:
+RT @ShaiLinne: Refugee | ,refyo͝oˈjē | noun
+a person who has been forced to leave their country in order to escape war, persecution, or dis…
+------------------------------------------------------------------------------------------------------------------------------------
+
+Tue Jul 31 2018 14:16:35 GMT-0400 (Eastern Daylight Time) - C:\Program Files\nodejs\node.exe,C:\liri-node-app\liri.js,do-what-it-SAYS
+
+Album Type: "compilation"
+
+Artist Name: "Backstreet Boys"
+
+Album Name: "The Hits--Chapter One"
+
+Preview URL: "https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=00a57fc6da474ea7b6acda3f6aa52cb5"
+------------------------------------------------------------------------------------------------------------------------------------
+

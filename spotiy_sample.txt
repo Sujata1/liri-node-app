@@ -1,0 +1,462 @@
+album Type :{
+  "albums": {
+    "href": "https://api.spotify.com/v1/search?query=All+the+Small+Things&type=album&offset=0&limit=1",
+    "items": [
+      {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/10Z7WzKMeIdNBKexi1YarP"
+            },
+            "href": "https://api.spotify.com/v1/artists/10Z7WzKMeIdNBKexi1YarP",
+            "id": "10Z7WzKMeIdNBKexi1YarP",
+            "name": "Fame on Fire",
+            "type": "artist",
+            "uri": "spotify:artist:10Z7WzKMeIdNBKexi1YarP"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AR",
+          "AT",
+          "AU",
+          "BE",
+          "BG",
+          "BO",
+          "BR",
+          "CA",
+          "CH",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "DO",
+          "EC",
+          "EE",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "GT",
+          "HK",
+          "HN",
+          "HU",
+          "ID",
+          "IE",
+          "IL",
+          "IS",
+          "IT",
+          "JP",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MC",
+          "MT",
+          "MX",
+          "MY",
+          "NI",
+          "NL",
+          "NO",
+          "NZ",
+          "PA",
+          "PE",
+          "PH",
+          "PL",
+          "PT",
+          "PY",
+          "RO",
+          "SE",
+          "SG",
+          "SK",
+          "SV",
+          "TH",
+          "TR",
+          "TW",
+          "US",
+          "UY",
+          "VN",
+          "ZA"
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/2dr1k7Vk5SIitklfXlXP60"        },
+        "href": "https://api.spotify.com/v1/albums/2dr1k7Vk5SIitklfXlXP60",
+        "id": "2dr1k7Vk5SIitklfXlXP60",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/217d3cc814bd35cd18eeeffc790b1d95fff71817",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/36a19d299ece01708e2c3a0577921def20371929",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/9e03e5825223db30b11db6974825f91c1d4f9d85",
+            "width": 64
+          }
+        ],
+        "name": "All the Small Things",
+        "release_date": "2018-05-25",
+        "release_date_precision": "day",
+        "type": "album",
+        "uri": "spotify:album:2dr1k7Vk5SIitklfXlXP60"
+      }
+    ],
+    "limit": 1,
+    "next": "https://api.spotify.com/v1/search?query=All+the+Small+Things&type=album&offset=1&limit=1",
+    "offset": 0,
+    "previous": null,
+    "total": 22
+  }
+}
+
+---------------------------------------------------------------------------
+
+{
+  "albums": {
+    "href": "https://api.spotify.com/v1/search?query=The+Sign&type=album&offset=0&limit=1",
+    "items": [
+      {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+            },
+            "href": "https://api.spotify.com/v1/artists/7c0XG5cIJTrrAgEC3ULPiq",            "id": "7c0XG5cIJTrrAgEC3ULPiq",
+            "name": "Ty Dolla $ign",
+            "type": "artist",
+            "uri": "spotify:artist:7c0XG5cIJTrrAgEC3ULPiq"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AR",
+          "AT",
+          "BE",
+          "BG",
+          "BO",
+          "BR",
+          "CA",
+          "CH",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "DO",
+          "EC",
+          "EE",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "GT",
+          "HK",
+          "HN",
+          "HU",
+          "ID",
+          "IE",
+          "IL",
+          "IS",
+          "IT",
+          "JP",
+          "LT",
+          "LU",
+          "LV",
+          "MC",
+          "MT",
+          "MX",
+          "MY",
+          "NI",
+          "NL",
+          "NO",
+          "NZ",
+          "PA",
+          "PE",
+          "PH",
+          "PL",
+          "PT",
+          "PY",
+          "RO",
+          "SE",
+          "SG",
+          "SK",
+          "SV",
+          "TH",
+          "TR",
+          "TW",
+          "US",
+          "UY",
+          "VN",
+          "ZA"
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/3SHx7bBQFI4J8QRr6D5cOK"
+        },
+        "href": "https://api.spotify.com/v1/albums/3SHx7bBQFI4J8QRr6D5cOK",
+        "id": "3SHx7bBQFI4J8QRr6D5cOK",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/023e60c410e185326b394caa3823b02e8d3e13d6",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/c19ecff803f99ae4e43f5456004feb0627cf7e84",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/0278337d0bed164a4ea0d6d1d31dcac23bca467a",
+            "width": 64
+          }
+        ],
+        "name": "Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) [Remix Version]",
+        "release_date": "2014-06-10",
+        "release_date_precision": "day",        "type": "album",
+        "uri": "spotify:album:3SHx7bBQFI4J8QRr6D5cOK"
+      }
+    ],
+    "limit": 1,
+    "next": "https://api.spotify.com/v1/search?query=The+Sign&type=album&offset=1&limit=1",
+    "offset": 0,
+    "previous": null,
+    "total": 994
+  }
+}
+
+
+----------------------------------------------------------------------
+{
+  "tracks": {
+    "href": "https://api.spotify.com/v1/search?query=All+In+The+Name&type=track&offset=0&limit=1",
+    "items": [
+      {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2YdVmtVBpIrv0N6WiBzSqm"
+              },
+              "href": "https://api.spotify.com/v1/artists/2YdVmtVBpIrv0N6WiBzSqm",
+              "id": "2YdVmtVBpIrv0N6WiBzSqm",
+              "name": "Atlantic Starr",
+              "type": "artist",
+              "uri": "spotify:artist:2YdVmtVBpIrv0N6WiBzSqm"
+            }
+          ],
+          "available_markets": [
+            "AD",
+            "AR",
+            "AT",
+            "AU",
+            "BE",
+            "BG",
+            "BO",
+            "BR",
+            "CA",
+            "CH",
+            "CL",
+            "CO",
+            "CR",
+            "CY",
+            "CZ",
+            "DE",
+            "DK",
+            "DO",
+            "EC",
+            "EE",
+            "ES",
+            "FI",
+            "FR",
+            "GB",
+            "GR",
+            "GT",
+            "HK",
+            "HN",
+            "HU",
+            "ID",
+            "IE",
+            "IL",
+            "IS",
+            "IT",
+            "JP",
+            "LI",
+            "LT",
+            "LU",
+            "LV",
+            "MC",
+            "MT",
+            "MX",
+            "MY",
+            "NI",
+            "NL",
+            "NO",
+            "NZ",
+            "PA",
+            "PE",
+            "PH",
+            "PL",
+            "PT",
+            "PY",
+            "RO",
+            "SE",
+            "SG",
+            "SK",
+            "SV",
+            "TH",
+            "TR",
+            "TW",
+            "US",
+            "UY",
+            "VN",
+            "ZA"
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/5gK0fkRx9h3OP8opU2sFpr"
+          },
+          "href": "https://api.spotify.com/v1/albums/5gK0fkRx9h3OP8opU2sFpr",
+          "id": "5gK0fkRx9h3OP8opU2sFpr",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/5f0b6a855da68a7be6d8420793b8d0684ed8adfa",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/c4445285607d36add1ccbbd81c232385ad95fbc4",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/93d55d51fd2b39591a418780f89620d1ef71e3cc",
+              "width": 64
+            }
+          ],
+          "name": "All In The Name Of Love",
+          "release_date": "1987-03-24",
+          "release_date_precision": "day",
+          "type": "album",
+          "uri": "spotify:album:5gK0fkRx9h3OP8opU2sFpr"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2YdVmtVBpIrv0N6WiBzSqm"
+            },
+            "href": "https://api.spotify.com/v1/artists/2YdVmtVBpIrv0N6WiBzSqm",            "id": "2YdVmtVBpIrv0N6WiBzSqm",
+            "name": "Atlantic Starr",
+            "type": "artist",
+            "uri": "spotify:artist:2YdVmtVBpIrv0N6WiBzSqm"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AR",
+          "AT",
+          "AU",
+          "BE",
+          "BG",
+          "BO",
+          "BR",
+          "CA",
+          "CH",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "DO",
+          "EC",
+          "EE",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "GT",
+          "HK",
+          "HN",
+          "HU",
+          "ID",
+          "IE",
+          "IL",
+          "IS",
+          "IT",
+          "JP",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MC",
+          "MT",
+          "MX",
+          "MY",
+          "NI",
+          "NL",
+          "NO",
+          "NZ",
+          "PA",
+          "PE",
+          "PH",
+          "PL",
+          "PT",
+          "PY",
+          "RO",
+          "SE",
+          "SG",
+          "SK",
+          "SV",
+          "TH",
+          "TR",
+          "TW",
+          "US",
+          "UY",
+          "VN",
+          "ZA"
+        ],
+        "disc_number": 1,
+        "duration_ms": 288493,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USWB10000497"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2TQaMcc3BEAF5Srn7FCipl"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2TQaMcc3BEAF5Srn7FCipl",
+        "id": "2TQaMcc3BEAF5Srn7FCipl",
+        "is_local": false,
+        "name": "Always",
+        "popularity": 55,
+        "preview_url": "https://p.scdn.co/mp3-preview/cf69b81167c70a1b75aa43594a3b8f6554eeebac?cid=00a57fc6da474ea7b6acda3f6aa52cb5",
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:2TQaMcc3BEAF5Srn7FCipl"
+      }
+    ],
+    "limit": 1,
+    "next": "https://api.spotify.com/v1/search?query=All+In+The+Name&type=track&offset=1&limit=1",
+    "offset": 0,
+    "previous": null,
+    "total": 454
+  }
+}
